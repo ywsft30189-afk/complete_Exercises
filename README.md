@@ -2,7 +2,7 @@
 
 This repository contains a collection of Python exercises. Below are direct links to each exercise file for quick access.
 
-## 📁 Exercise List
+##  Exercise List
 
 | Exercise Number | Description | Direct Link to Code |
 | :--- | :--- | :--- |
